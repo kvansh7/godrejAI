@@ -1,0 +1,23 @@
+# Core
+streamlit>=1.36.0
+python-dotenv>=1.0.0
+
+# MongoDB
+pymongo>=4.7.2
+dnspython>=2.6.1
+
+# LangChain + Google GenAI
+langchain>=0.2.10
+langchain-core>=0.2.21
+langchain-community>=0.2.10
+langchain-google-genai>=1.0.6
+
+# NLP / Embeddings
+sentence-transformers>=2.7.0
+scikit-learn>=1.5.0
+numpy>=1.26.4
+
+# Document loaders
+unstructured>=0.14.9
+python-docx>=1.1.2
+pypdf>=4.2.0
